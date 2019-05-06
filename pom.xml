@@ -81,8 +81,8 @@
 </repository>
 <snapshotRepository>
 <id>nexus</id>
-<name>SAMPLE-SNAP</name>
-<url>http://10.112.54.188:8081/repository/SAMPLE-SNAP/</url>
+<name>repository-example</name>
+<url>http://10.112.54.188:8081/repository/repository-example/</url>
 </snapshotRepository>
 </distributionManagement>
   
