@@ -73,17 +73,6 @@
     </pluginManagement>
   </build>
   
-<distributionManagement>
-<repository>
-<id>nexus</id>
-<name>SAMPLE-REL</name>
-<url>http://10.112.54.188:8081/repository/SAMPLE-REL/</url>
-</repository>
-<snapshotRepository>
-<id>nexus</id>
-<name>repository-example</name>
-<url>http://10.112.54.188:8081/repository/repository-example/</url>
-</snapshotRepository>
-</distributionManagement>
+
   
 </project>
